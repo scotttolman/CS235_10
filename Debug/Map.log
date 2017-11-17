@@ -1,0 +1,79 @@
+﻿  wordCount.cpp
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\tolmans\desktop\cs 235\map\map\bst.h(62): note: see reference to class template instantiation 'custom::BST<T>' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(225): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(257): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(34): note: see reference to class template instantiation 'custom::map<K,V>' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\map.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(28): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(47): note: prefix with 'typename' to indicate a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(58): note: see reference to class template instantiation 'custom::map<K,V>::iterator' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(50): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(51): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(52): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(53): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(114): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(128): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  assignment10.cpp
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\tolmans\desktop\cs 235\map\map\bst.h(62): note: see reference to class template instantiation 'custom::BST<T>' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(225): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\bst.h(257): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(34): note: see reference to class template instantiation 'custom::map<K,V>' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\map.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(28): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(47): note: prefix with 'typename' to indicate a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(58): note: see reference to class template instantiation 'custom::map<K,V>::iterator' being compiled
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(47): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(50): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(50): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(51): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(51): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(52): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(52): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): warning C4346: 'iterator': dependent name is not a type
+  c:\users\tolmans\desktop\cs 235\map\map\map.h(53): note: prefix with 'typename' to indicate a type
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): error C2061: syntax error: identifier 'iterator'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(53): error C2238: unexpected token(s) preceding ';'
+c:\users\tolmans\desktop\cs 235\map\map\map.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(114): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\tolmans\desktop\cs 235\map\map\map.h(128): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
